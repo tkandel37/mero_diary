@@ -1,0 +1,13 @@
+#container>ul>#calculator{
+	background-color:black;
+	line-height:150px;
+}
+#container>ul>#calculator:hover{
+	background-color:black;
+	line-height:150px;
+	color:white;
+}
+a{
+	color:white;
+	text-decoration:none;
+}

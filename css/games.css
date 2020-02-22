@@ -1,0 +1,13 @@
+#container>ul>#games{
+	background-color:black;
+	line-height:150px;
+}
+#container>ul>#games:hover{
+	background-color:black;
+	line-height:150px;
+	color:white;
+}
+a{
+	color:white;
+	text-decoration:none;
+}
